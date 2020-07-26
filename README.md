@@ -13,3 +13,16 @@ Cousera Natural Language Processing Specialization
 - week 4
   - notebooks
   - project
+## Course 2 --> Natural Language Processing with Probabilistic Models
+- week 1 
+  - notebooks
+  - assignments
+- week 2
+  - notebooks
+  - assignments
+- week 3
+  - notebooks
+  - assignments
+- week 4
+  - notebooks
+  - project
